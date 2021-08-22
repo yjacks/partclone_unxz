@@ -1,0 +1,2 @@
+# partclone_unxz
+用交互式的方法部署partclone映像文件
